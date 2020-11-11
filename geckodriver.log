@@ -705,3 +705,117 @@ JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using 
 1605112847240	Marionette	INFO	Listening on port 54450
 1605112847296	Marionette	WARN	TLS certificate errors will be ignored for this session
 1605113278758	Marionette	INFO	Stopped listening on port 54450
+1605115220158	geckodriver	INFO	Listening on 127.0.0.1:54684
+1605115220187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofileHYTQZ0"
+1605115221411	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605115222005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605115222005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605115222005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605115222006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605115224839	Marionette	INFO	Listening on port 54693
+1605115224917	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-11-11 18:20:40.340 firefox-bin[88057:9080773] NextSurface returning false because of invalid mSize (0, 0).
+2020-11-11 18:21:09.860 firefox-bin[88057:9080773] NextSurface returning false because of invalid mSize (0, 0).
+2020-11-11 18:21:11.192 firefox-bin[88057:9080773] NextSurface returning false because of invalid mSize (0, 0).
+2020-11-11 18:21:11.827 firefox-bin[88057:9080773] NextSurface returning false because of invalid mSize (0, 0).
+2020-11-11 18:21:12.153 firefox-bin[88057:9080773] NextSurface returning false because of invalid mSize (0, 0).
+2020-11-11 18:21:12.894 firefox-bin[88057:9080773] NextSurface returning false because of invalid mSize (0, 0).
+1605116127572	Marionette	INFO	Stopped listening on port 54693
+1605116859917	geckodriver	INFO	Listening on 127.0.0.1:54919
+1605116859933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofileKVHGeK"
+1605116861113	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605116861661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605116861661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605116861662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605116861662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605116865160	Marionette	INFO	Listening on port 54928
+1605116865195	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-11-11 18:47:49.389 firefox-bin[88280:9091851] NextSurface returning false because of invalid mSize (0, 0).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605118012573	geckodriver	INFO	Listening on 127.0.0.1:55071
+1605118012587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofileLg8Eya"
+1605118013723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605118014328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605118014328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605118014329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605118014329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605118017746	Marionette	INFO	Listening on port 55080
+1605118017789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605118091036	Marionette	INFO	Stopped listening on port 55080
+1605118117786	geckodriver	INFO	Listening on 127.0.0.1:55156
+1605118117807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofileKtO9nb"
+1605118118626	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605118119242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605118119243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605118119243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605118119243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605118122294	Marionette	INFO	Listening on port 55165
+1605118122337	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-11-11 19:08:46.716 firefox-bin[88425:9098862] NextSurface returning false because of invalid mSize (0, 0).
+console.warn: services.settings: Signature verified failed for main/normandy-recipes-capabilities. Retry from scratch
+1605125587868	Marionette	INFO	Stopped listening on port 55165
+1605125595884	geckodriver	INFO	Listening on 127.0.0.1:55530
+1605125595894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofileXVH6Ga"
+1605125597063	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605125597689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605125597689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605125597689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605125597689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605125601408	Marionette	INFO	Listening on port 55539
+1605125601452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605125650921	Marionette	INFO	Stopped listening on port 55539
+1605128715649	geckodriver	INFO	Listening on 127.0.0.1:55886
+1605128715667	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofile31zp8P"
+1605128716888	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605128717507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605128717507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605128717507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605128717507	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605128721356	Marionette	INFO	Listening on port 55895
+1605128721379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605128806943	geckodriver	INFO	Listening on 127.0.0.1:55988
+1605128806968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofilevz6EjP"
+1605128808390	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605128809135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605128809135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605128809136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605128809136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605128812885	Marionette	INFO	Listening on port 55997
+1605128812986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1605128875265	geckodriver	INFO	Listening on 127.0.0.1:56086
+1605128875289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofilexqFeKS"
+1605128876570	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605128877326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605128877326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605128877327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605128877327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605128880966	Marionette	INFO	Listening on port 56095
+1605128881065	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-11-11 22:08:06.430 firefox-bin[88921:9142624] NextSurface returning false because of invalid mSize (0, 0).
+2020-11-11 22:08:18.442 firefox-bin[88930:9143298] NextSurface returning false because of invalid mSize (0, 0).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1605128959759	geckodriver	INFO	Listening on 127.0.0.1:56190
+1605128959782	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/07/6k4_w57j5q70mgrqpvpr_1d40000gn/T/rust_mozprofileItsz41"
+1605128960738	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1605128961283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1605128961283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1605128961283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1605128961284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1605128964364	Marionette	INFO	Listening on port 56199
+1605128964439	Marionette	WARN	TLS certificate errors will be ignored for this session
